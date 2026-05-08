@@ -102,3 +102,36 @@ class About extends Me {
     }
   };
 }
+---
+
+# 📌 About Me
+
+- 📱 I’m currently focused on **Flutter Development**
+- 🔥 Building scalable apps using **Clean Architecture + Cubit + APIs**
+- 🗄 Working with **Firebase + Supabase + SQLite + PostgreSQL**
+- 🧠 Interested in **Backend Development + Cybersecurity + AI**
+- 💻 Ask me about **Flutter, Dart, Mobile Apps, Databases**
+- 🚀 Passionate about building real-world applications
+- 🎯 Goal: Becoming a Professional Flutter Developer
+
+---
+
+# 🌐 Connect With Me
+
+### Portfolio
+
+https://mafia-portfolio.vercel.app/
+
+### LinkedIn
+
+https://www.linkedin.com/in/mohamed-hafez-997833207/
+
+### Gmail
+
+mohammedafia003@gmail.com
+
+---
+
+# ⚡ Fun Fact
+
+I believe consistency beats motivation in programming 🚀
