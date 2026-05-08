@@ -1,11 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+<img width="80%" alt="mafia_banner" src="https://github.com/user-attachments/assets/545fb487-33fb-4fa1-807c-ca6f4f01b49d"/>
+
+<br><br>
 
 # Hi, I'm Mohamed Hafez (MAFIA) 👋
 
-### Flutter Developer | Computer Engineering & AI Student
+### Flutter Developer | Computer Engineering & FCAI Student
 
 Focused on building modern mobile applications using Flutter, Dart, State Management, REST APIs, Firebase, Supabase, and Local Databases.
 
@@ -149,6 +150,7 @@ https://www.linkedin.com/in/mohamed-hafez-997833207/
 ### Gmail
 
 mohammedafia003@gmail.com
+mohammedhafez159@gmail.com
 
 ---
 
