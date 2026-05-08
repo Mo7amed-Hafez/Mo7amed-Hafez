@@ -11,6 +11,7 @@ Focused on building modern mobile applications using Flutter, Dart, State Manage
 
 Interested in Backend Development, Database Systems, Cybersecurity, and AI Tools.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-black?style=flat&logo=vercel)](https://mafia-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hafez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hafez-997833207/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=flat&logo=gmail)](mailto:mohammedafia003@gmail.com)
 
