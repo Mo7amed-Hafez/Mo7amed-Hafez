@@ -56,8 +56,8 @@ class About extends Me {
 
     "ProgrammingLanguages": {
       "Dart",
-      "Python",
-      "C++"
+      "C++",
+      "Python"
     },
 
     "MobileDevelopment": {
@@ -74,35 +74,56 @@ class About extends Me {
     },
 
     "Database": {
-      "Firebase",
-      "Supabase",
-      "SQLite",
-      "PostgreSQL",
-      "SharedPreferences"
+      "Firebase","Supabase","SQLite","PostgreSQL","SharedPreferences"
     },
 
     "DevelopmentTools": {
-      "Git",
-      "GitHub",
-      "Postman",
-      "VS Code",
-      "Android Studio",
-      "Figma"
+      "Git","GitHub","Postman","VS Code","Android Studio","Figma"
     },
 
     "OtherInterests": {
-      "Backend Basics",
-      "Cybersecurity",
-      "AI Tools"
+      "Backend Basics","Cybersecurity","AI Tools"
     },
 
     "Platforms": {
-      "Windows",
-      "Linux"
+      "Windows","Linux"
     }
   };
 }
+```
 ---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Mo7amed-Hafez">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mo7amed-Hafez&theme=tokyonight" width="32.5%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mo7amed-Hafez&theme=tokyonight" width="32.5%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mo7amed-Hafez&theme=tokyonight" width="32.5%" />
+
+</a>
+
+</div>
+
+<details>
+<summary>More Stats</summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mo7amed-Hafez&theme=tokyonight" width="95%" />
+
+</div>
+
+</details>
+
+```
+```
 
 # 📌 About Me
 
@@ -114,7 +135,6 @@ class About extends Me {
 - 🚀 Passionate about building real-world applications
 - 🎯 Goal: Becoming a Professional Flutter Developer
 
----
 
 # 🌐 Connect With Me
 
