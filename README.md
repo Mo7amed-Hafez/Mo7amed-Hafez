@@ -8,7 +8,7 @@
 
 ### Flutter Developer | Computer Engineering & FCAI Student
 
-Focused on building modern mobile applications using Flutter, Dart, State Management, REST APIs, Firebase, Supabase, and Local Databases.
+Focused on building modern mobile applications using Framework Flutter, Dart, State Management, REST APIs, Firebase, Supabase, MVVM, and Local Databases.
 
 Interested in Backend Development, Database Systems, Cybersecurity, and AI Tools.
 
@@ -129,7 +129,7 @@ class About extends Me {
 # 📌 About Me
 
 - 📱 I’m currently focused on **Flutter Development**
-- 🔥 Building scalable apps using **Clean Architecture + Cubit + APIs**
+- 🔥 Building scalable apps using **Clean Architecture + Cubit + APIs + MVVM**
 - 🗄 Working with **Firebase + Supabase + SQLite + PostgreSQL**
 - 🧠 Interested in **Backend Development + Cybersecurity + AI**
 - 💻 Ask me about **Flutter, Dart, Mobile Apps, Databases**
