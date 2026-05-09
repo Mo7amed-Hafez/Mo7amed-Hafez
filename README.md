@@ -1,8 +1,10 @@
 <div align="center" width="50">
-<img width="90%" height="261" alt="mafiaBanner-ezgif com-optimize" src="https://github.com/user-attachments/assets/994e7e8c-a4ed-4475-a8eb-35f1fb741810" />
 
+<img width="90%" hight="150" alt="mafiaBanner-ezgif" src="https://github.com/user-attachments/assets/994e7e8c-a4ed-4475-a8eb-35f1fb741810" />
 
-<img width="70%" alt="mafia_banner" src="https://github.com/user-attachments/assets/545fb487-33fb-4fa1-807c-ca6f4f01b49d"/>
+<br><br>
+
+<img width="65%" alt="mafia_banner" src="https://github.com/user-attachments/assets/545fb487-33fb-4fa1-807c-ca6f4f01b49d" />
 
 <br><br>
 
@@ -10,11 +12,11 @@
 
 ### Flutter Developer | Computer Engineering & FCAI Student
 
-Focused on building modern mobile applications using Framework Flutter, Dart, State Management, REST APIs, Firebase, Supabase, MVVM, and Local Databases.
+Focused on building modern mobile applications using Flutter Framework, Dart, State Management, REST APIs, Firebase, Supabase, MVVM, and Local Databases.
 
 Interested in Backend Development, Database Systems, Cybersecurity, and AI Tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-MAFIA_Portfolio-purple?style=flat&logo)](https://mafia-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MAFIA_Portfolio-purple?style=flat)](https://mafia-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hafez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hafez-997833207/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=flat&logo=gmail)](mailto:mohammedafia003@gmail.com)
 
