@@ -20,7 +20,8 @@ Interested in Backend Development, Database Systems, Cybersecurity, and AI Tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hafez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hafez-997833207/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=flat&logo=gmail)](mailto:mohammedafia003@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mo7amed-Hafez&style=flat&color=orange&label=PROFILE+VIEWS)
+<!-- Profile Views -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Mo7amed-Hafez&style=flat&color=orange&label=PROFILE+VIEWS) -->
 
 </div>
 
