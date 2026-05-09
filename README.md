@@ -1,6 +1,8 @@
 <div align="center" width="50">
+<img width="90%" height="261" alt="mafiaBanner-ezgif com-optimize" src="https://github.com/user-attachments/assets/994e7e8c-a4ed-4475-a8eb-35f1fb741810" />
 
-<img width="80%" alt="mafia_banner" src="https://github.com/user-attachments/assets/545fb487-33fb-4fa1-807c-ca6f4f01b49d"/>
+
+<img width="70%" alt="mafia_banner" src="https://github.com/user-attachments/assets/545fb487-33fb-4fa1-807c-ca6f4f01b49d"/>
 
 <br><br>
 
@@ -62,14 +64,15 @@ class About extends Me {
     },
 
     "MobileDevelopment": {
-      "Flutter",
       "Flutter Framework",
+      "Flutter",
+      "State Management",
       "Cubit",
       "BLoC",
       "Provider",
+      "MVVM",
       "REST APIs",
       "JSON Parsing",
-      "State Management",
       "Responsive UI",
       "Notifications"
     },
